@@ -10,6 +10,9 @@ import 'bootstrap/dist/js/bootstrap.bundle'
 import './Css/Default.css'
 import './Css/NavBar.css'
 import './Css/Footer.css'
+import './Css/Login.css'
+import './Css/Register.css'
+/*Css*/
 
 ReactDOM.render(
   <React.StrictMode>

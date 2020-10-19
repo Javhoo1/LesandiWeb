@@ -1,18 +1,18 @@
 .footerBox{
     background-color: #F1F1F1;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
 }
 
 .footerIcono{
-    padding: 10px;
-    margin: 20px;
+
+    margin: 10px 20px;
 }
 
 .footerText{
-    margin: 150px;
+    margin: 100px;
     color: black;
-    font-weight: 600;
+    font-weight: 300;
     font-size: 30px;
 }
 
