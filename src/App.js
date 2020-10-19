@@ -6,6 +6,7 @@ import Contacto from "./Pages/Contacto";
 import Login from "./Pages/Login";
 import Home from "./Pages/Home";
 import Juegos from "./Pages/Juegos";
+import Register from "./Pages/Register";
 
 function App() {
     return (
@@ -17,6 +18,7 @@ function App() {
                 <Route path='/Juegos' component={Juegos}/>
                 <Route path='/Contacto' component={Contacto}/>
                 <Route path='/Login' component={Login}/>
+                <Route path='/Register' component={Register}/>
             </Switch>
         </Router>
     );
